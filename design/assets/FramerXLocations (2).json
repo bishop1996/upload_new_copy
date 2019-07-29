@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Bedford Row (Holborn House)",
+        "location": { "longitude": -0.11518, "latitude": 51.518954 },
+        "focusLocation": { "zoom": 14, "bearing": 0, "pitch": 0 },
+        "category": "51 Bedford Row, Holborn, London WC1V 4LR",
+        "details": "0.06 miles away"
+    },
+    {
+        "name": "High Holborn 236",
+        "location": { "longitude": -0.118438, "latitude": 51.517745 },
+        "focusLocation": { "zoom": 14, "bearing": 0, "pitch": 0 },
+        "category": "236 High Holborn, London, WC1V 7DN",
+        "details": "0.1 miles away"
+    },
+    {
+        "name": "Chancery Lane",
+        "location": { "longitude": -0.111156, "latitude": 51.518193 },
+        "focusLocation": { "zoom": 14, "bearing": 0, "pitch": 0 },
+        "category": "19 Holborn, London, EC1N 2JD",
+        "details": "0.11 miles away"
+    },
+    {
+        "name": "New Fetter Lane",
+        "location": { "longitude": -0.108217, "latitude": 51.516259 },
+        "focusLocation": { "zoom": 14, "bearing": 0, "pitch": 0 },
+        "category": "1 Great New Street, London, EC4A 3BN",
+        "details": "0.15 miles away"
+    }
+]
